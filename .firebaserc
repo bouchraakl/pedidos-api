@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "pedidos-api-v1",
+    "testing": "pedidos-api-v1",
+    "l": "npvet-efd62"
+  },
+  "targets": {},
+  "etags": {}
+}
